@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  pixapp:
+    image: pixapp
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 8085:8090
+    volumes:
+      - /data/pixapp

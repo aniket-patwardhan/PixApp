@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>pix</name>
-	<description>lets do more</description>
+	<description>click upload share!</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
