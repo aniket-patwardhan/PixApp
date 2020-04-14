@@ -6,7 +6,7 @@
 	<groupId>com.demesne.pix</groupId>
 	<artifactId>pix</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>pix</name>
 	<description>click upload share!</description>
